@@ -1,0 +1,52 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "artist": "Lil Yachty",
+      "album": "Let's Start Here",
+      "body": "Best album of 2023. The Black Seminole Track of the Year. Other best songs, The Ride-, Running Out Of Time, Pretty, Ive Officially Lost Vision!!!!, Say Something",
+      "img": "yachty",
+      "spotifyId": "6Per97deaWqrJlKQNX8RGK"
+    },
+    {
+      "id": 2,
+      "artist": "The Prodigy",
+      "album": "Music For The Jilted Generation",
+      "body": "Their Law, Voodoo People, Poison, No Good and One Love all bangers.",
+      "img": "jilted",
+      "spotifyId": "4qhJwKBr2ksxAUFjfJd3rb"
+    },
+    {
+      "id": 3,
+      "artist": "Hiatus Kaiyote",
+      "album": "Choose Your Weapon",
+      "body": "Beautiful chill jazzy vibes.",
+      "img": "hiatus",
+      "spotifyId": "3qzmmmRmVBiOuMvrerfW4z"
+    },
+    {
+      "id": 4,
+      "artist": "Overmono",
+      "album": "Good Lies",
+      "body": "Great breakbeat garage, Feelings Plain, Is U and So U Know fav tracks.",
+      "img": "overmono",
+      "spotifyId": "7m2yEFYxnjmEyq7IXa9sXp"
+    },
+    {
+      "id": 5,
+      "artist": "James Blake",
+      "album": "Playing Robotos Into Heaven",
+      "body": "'Upbeat' album that still tugs at the heart strings. Best songs Asking To Break, Fall Back, Tell Me, Big Hammer.",
+      "img": "robots",
+      "spotifyId": "2ZwNcWl8h9blysDE8i4juL"
+    },
+    {
+      "id": 6,
+      "artist": "Baauer",
+      "album": "Planet's Mad",
+      "body": "Came out during COVID and ticks all the electronic boxes. Baauer has a chaotic but purposeful production style and most importantly most tracks just slap. Best songs PLANCK, MAGIC, PIZZAWALA and AETHER is just pure energy. Also top 10 designs for the gatefold and sleeves, pics included.",
+      "img": "baauer",
+      "spotifyId": "4qhJwKBr2ksxAUFjfJd3rb"
+    }
+  ]
+}
