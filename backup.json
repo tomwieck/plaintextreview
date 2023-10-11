@@ -1,77 +1,74 @@
-{
-  "reviews": [
-    {
-      "id": 1,
-      "artist": "Lil Yachty",
-      "album": "Let's Start Here",
-      "year": 2023,
-      "body": "Best album of 2023. The Black Seminole Track of the Year. Other best songs, The Ride-, Running Out Of Time, Pretty, Ive Officially Lost Vision!!!!, Say Something",
-      "img": "yachty",
-      "spotifyId": "6Per97deaWqrJlKQNX8RGK"
-    },
-    {
-      "id": 2,
-      "artist": "The Prodigy",
-      "album": "Music For The Jilted Generation",
-      "year": 1994,
-      "body": "Their Law, Voodoo People, Poison, No Good and One Love all bangers.",
-      "img": "jilted",
-      "spotifyId": "4qhJwKBr2ksxAUFjfJd3rb"
-    },
-    {
-      "id": 3,
-      "artist": "Hiatus Kaiyote",
-      "album": "Choose Your Weapon",
-      "year": 2015,
-      "body": "Beautiful chill jazzy vibes.",
-      "img": "hiatus",
-      "spotifyId": "3qzmmmRmVBiOuMvrerfW4z"
-    },
-    {
-      "id": 4,
-      "artist": "Overmono",
-      "album": "Good Lies",
-      "year": 2023,
-      "body": "Great breakbeat garage, Feelings Plain, Is U and So U Know fav tracks.",
-      "img": "overmono",
-      "spotifyId": "7m2yEFYxnjmEyq7IXa9sXp"
-    },
-    {
-      "id": 5,
-      "artist": "James Blake",
-      "album": "Playing Robotos Into Heaven",
-      "year": 2023,
-      "body": "'Upbeat' album that still tugs at the heart strings. Best songs Asking To Break, Fall Back, Tell Me, Big Hammer.",
-      "img": "robots",
-      "spotifyId": "2ZwNcWl8h9blysDE8i4juL"
-    },
-    {
-      "id": 6,
-      "artist": "Baauer",
-      "album": "Planet's Mad",
-      "year": 2020,
-      "body": "Came out during COVID and ticks all the electronic boxes. Baauer has a chaotic but purposeful production style and most importantly most tracks just slap. Best songs PLANCK, MAGIC, PIZZAWALA and AETHER is just pure energy. Also top 10 designs for the gatefold and sleeves, pics included.",
-      "img": "baauer",
-      "spotifyId": "4qhJwKBr2ksxAUFjfJd3rb"
-    },
-    {
-      "id": 7,
-      "artist": "Disclosure",
-      "album": "Alchemy",
-      "year": 2023,
-      "body": "Return to form for Disclosure, opting to go for a no feature surprise release compared to their stacked no expenses spared previous few albums. Feels more like original Settle, clean production with no samples and even a cheeky jungle track. Best songs, Looking For Love, Simply Won't Do, Higher Than Ever Before, Go The Distance, We Were In Love, basically the whole first half of the album.",
-      "img": "alchemy ",
-      "spotifyId": "5RMkjbbZvLo9TNdpKrmP71"
-    },
-    {
-      "id": 8,
-      "artist": "Lunice",
-      "album": "Open",
-      "year": 2023,
-      "body": "Distinct and confident sound throughout, obviously makes what he wants when he wants with the sole reason being to get people dancing. YAYAYA huge opener, Life Happening, Last Time grows on you, make Face feeling like old school TNGHT, No Commas sounds like something from Baauers Planets Mad with strange but catchy vocals, finishing on Red Congo, just a straight bop.",
-      "img": "alchemy ",
-      "spotifyId": "5RMkjbbZvLo9TNdpKrmP71"
-    }
-    
-  ]
-}
+[
+  {
+    "id": 1,
+    "artist": "Lil Yachty",
+    "album": "Let's Start Here",
+    "year": 2023,
+    "body": "Best album of 2023. The Black Seminole Track of the Year. Other best songs, The Ride-, Running Out Of Time, Pretty, Ive Officially Lost Vision!!!!, Say Something",
+    "img": "yachty",
+    "spotifyId": "6Per97deaWqrJlKQNX8RGK"
+  },
+  {
+    "id": 2,
+    "artist": "The Prodigy",
+    "album": "Music For The Jilted Generation",
+    "year": 1994,
+    "body": "Their Law, Voodoo People, Poison, No Good and One Love all bangers.",
+    "img": "jilted",
+    "spotifyId": "4qhJwKBr2ksxAUFjfJd3rb"
+  },
+  {
+    "id": 3,
+    "artist": "Hiatus Kaiyote",
+    "album": "Choose Your Weapon",
+    "year": 2015,
+    "body": "Beautiful chill jazzy vibes.",
+    "img": "hiatus",
+    "spotifyId": "3qzmmmRmVBiOuMvrerfW4z"
+  },
+  {
+    "id": 4,
+    "artist": "Overmono",
+    "album": "Good Lies",
+    "year": 2023,
+    "body": "Great breakbeat garage, Feelings Plain, Is U and So U Know fav tracks.",
+    "img": "overmono",
+    "spotifyId": "7m2yEFYxnjmEyq7IXa9sXp"
+  },
+  {
+    "id": 5,
+    "artist": "James Blake",
+    "album": "Playing Robotos Into Heaven",
+    "year": 2023,
+    "body": "'Upbeat' album that still tugs at the heart strings. Best songs Asking To Break, Fall Back, Tell Me, Big Hammer.",
+    "img": "robots",
+    "spotifyId": "2ZwNcWl8h9blysDE8i4juL"
+  },
+  {
+    "id": 6,
+    "artist": "Baauer",
+    "album": "Planet's Mad",
+    "year": 2020,
+    "body": "Came out during COVID and ticks all the electronic boxes. Baauer has a chaotic but purposeful production style and most importantly most tracks just slap. Best songs PLANCK, MAGIC, PIZZAWALA and AETHER is just pure energy. Also top 10 designs for the gatefold and sleeves, pics included.",
+    "img": "baauer",
+    "spotifyId": "4qhJwKBr2ksxAUFjfJd3rb"
+  },
+  {
+    "id": 7,
+    "artist": "Disclosure",
+    "album": "Alchemy",
+    "year": 2023,
+    "body": "Return to form for Disclosure, opting to go for a no feature surprise release compared to their stacked no expenses spared previous few albums. Feels more like original Settle, clean production with no samples and even a cheeky jungle track. Best songs, Looking For Love, Simply Won't Do, Higher Than Ever Before, Go The Distance, We Were In Love, basically the whole first half of the album.",
+    "img": "alchemy ",
+    "spotifyId": "5RMkjbbZvLo9TNdpKrmP71"
+  },
+  {
+    "id": 8,
+    "artist": "Lunice",
+    "album": "Open",
+    "year": 2023,
+    "body": "Distinct and confident sound throughout, obviously makes what he wants when he wants with the sole reason being to get people dancing. YAYAYA huge opener, Life Happening, Last Time grows on you, make Face feeling like old school TNGHT, No Commas sounds like something from Baauers Planets Mad with strange but catchy vocals, finishing on Red Congo, just a straight bop.",
+    "img": "alchemy ",
+    "spotifyId": "5RMkjbbZvLo9TNdpKrmP71"
+  }
+]
