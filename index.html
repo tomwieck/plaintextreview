@@ -17,9 +17,9 @@
   <div id="app">
     <h1>Plain Text Review</h1>
 
-    <ul v-if="posts.length > 0">
+    <ul v-cloak v-if="posts.length > 0">
       <li v-for="post in posts" :key="post.id">
-        <a :href=`reviews/${id}`>{{post.artist}} - {{post.album}} ({{post.year}})</a>
+        <a :href=`reviews/${post.id}.html`>{{post.artist}} - {{post.album}} ({{post.year}})</a>
       </li>
     </ul>
   </div>
