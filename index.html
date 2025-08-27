@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
   <meta charset="UTF-8" />
   <title>Plain Text Review</title>
@@ -9,9 +7,7 @@
   <meta name="description" content="" />
   <link rel="icon" href="favicon.png">
   <link rel="stylesheet" href="styles.css">
-  <!-- <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script> -->
   <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
-
 </head>
 <body>
   <div id="app">
@@ -19,22 +15,28 @@
 
     <ul v-cloak v-if="posts.length > 0">
       <li v-for="post in posts" :key="post.id">
-        <a :href=`reviews/${post.id}.html`>{{post.artist}} - {{post.album}} ({{post.year}})</a>
+        <a :href="'reviews/' + post.id + '.html'">
+          {{ post.artist }} - {{ post.album }} ({{ post.year }})
+        </a>
       </li>
     </ul>
   </div>
+
+  <script type="module">
+    const { createApp } = Vue
+
+    fetch('./backup.json')
+      .then(response => response.json())
+      .then(data => {
+        createApp({
+          data() {
+            return {
+              posts: data
+            }
+          }
+        }).mount('#app')
+      })
+      .catch(err => console.error("Error loading backup.json:", err))
+  </script>
 </body>
-
-<script type="module">
-  const { createApp } = Vue
-  import data from './backup.json' assert { type: 'json' };
-
-  createApp({
-    data() {
-      return {
-        posts: data,
-      }
-    },
-  }).mount('#app')
-</script>
 </html>
